@@ -73,10 +73,10 @@ A centralized platform designed to connect students, alumni, recruiters, faculty
 
 <!-- Replace YOUR_GITHUB_USERNAME with your exact GitHub username. -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=false&include_all_commits=true" height="165" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=false" height="165" alt="Top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Jayant767&show_icons=true&theme=dark&hide_border=false&include_all_commits=true" height="165" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayant767&layout=compact&theme=dark&hide_border=false" height="165" alt="Top languages"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=false" alt="GitHub contribution streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jayant767&theme=dark&hide_border=false" alt="GitHub contribution streak"/>
 </div>
 
 ## ✨ Activities & Interests
